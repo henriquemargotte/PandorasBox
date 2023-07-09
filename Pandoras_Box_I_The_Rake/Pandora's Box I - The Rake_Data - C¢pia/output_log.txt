@@ -1,0 +1,853 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 2000 (ID=0xdd8)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+    Driver:   21.21.13.7748
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Admin\Desktop\ProjetoTerror _vMusica9\Pandora's Box I - The Rake_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.925427 ms
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.326554 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 367.
+Total: 1.016361 ms (FindLiveObjects: 0.025813 ms CreateObjectMapping: 0.038564 ms MarkObjects: 0.160167 ms  DeleteObjects: 0.791194 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.732862 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+Total: 0.502271 ms (FindLiveObjects: 0.108851 ms CreateObjectMapping: 0.036698 ms MarkObjects: 0.328420 ms  DeleteObjects: 0.027990 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.923872 ms
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 3469.
+Total: 1.094113 ms (FindLiveObjects: 0.133109 ms CreateObjectMapping: 0.048516 ms MarkObjects: 0.466817 ms  DeleteObjects: 0.444425 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 83.914551 ms
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 4.521690 ms (FindLiveObjects: 0.023947 ms CreateObjectMapping: 0.031100 ms MarkObjects: 0.148971 ms  DeleteObjects: 4.317361 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.380047 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 2.296455 ms (FindLiveObjects: 0.022081 ms CreateObjectMapping: 0.030478 ms MarkObjects: 0.123157 ms  DeleteObjects: 2.120116 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.491697 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 370.
+Total: 1.689375 ms (FindLiveObjects: 0.027679 ms CreateObjectMapping: 0.031722 ms MarkObjects: 0.283013 ms  DeleteObjects: 1.346337 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.406793 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+Total: 0.514090 ms (FindLiveObjects: 0.125645 ms CreateObjectMapping: 0.035143 ms MarkObjects: 0.323755 ms  DeleteObjects: 0.028923 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.795427 ms
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 3469.
+Total: 1.092868 ms (FindLiveObjects: 0.135908 ms CreateObjectMapping: 0.035765 ms MarkObjects: 0.423587 ms  DeleteObjects: 0.496673 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 81.489029 ms
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 420.
+Total: 4.282217 ms (FindLiveObjects: 0.029856 ms CreateObjectMapping: 0.042607 ms MarkObjects: 0.148971 ms  DeleteObjects: 4.060471 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.537415 ms
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 3.090449 ms (FindLiveObjects: 0.024258 ms CreateObjectMapping: 0.033899 ms MarkObjects: 0.139018 ms  DeleteObjects: 2.892339 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.381913 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 2.297699 ms (FindLiveObjects: 0.017416 ms CreateObjectMapping: 0.021770 ms MarkObjects: 0.127822 ms  DeleteObjects: 2.130379 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.456865 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 371.
+Total: 1.678490 ms (FindLiveObjects: 0.026435 ms CreateObjectMapping: 0.032344 ms MarkObjects: 0.276793 ms  DeleteObjects: 1.342294 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.456865 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2632.
+Total: 0.482056 ms (FindLiveObjects: 0.105741 ms CreateObjectMapping: 0.037009 ms MarkObjects: 0.310382 ms  DeleteObjects: 0.028612 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.842078 ms
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 3470.
+Total: 1.069543 ms (FindLiveObjects: 0.136530 ms CreateObjectMapping: 0.036698 ms MarkObjects: 0.436649 ms  DeleteObjects: 0.459042 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 81.056732 ms
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 420.
+Total: 4.283461 ms (FindLiveObjects: 0.029545 ms CreateObjectMapping: 0.040119 ms MarkObjects: 0.134353 ms  DeleteObjects: 4.078509 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at TheRakeHands.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at TheRakeHands.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at TheRakeHands.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.479879 ms
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 3.100401 ms (FindLiveObjects: 0.027057 ms CreateObjectMapping: 0.038564 ms MarkObjects: 0.134353 ms  DeleteObjects: 2.892650 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.367918 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 2.216216 ms (FindLiveObjects: 0.020837 ms CreateObjectMapping: 0.031100 ms MarkObjects: 0.126267 ms  DeleteObjects: 2.037388 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.447535 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 371.
+Total: 1.703992 ms (FindLiveObjects: 0.025813 ms CreateObjectMapping: 0.034521 ms MarkObjects: 0.278659 ms  DeleteObjects: 1.364375 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.419544 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2632.
+Total: 0.490764 ms (FindLiveObjects: 0.113827 ms CreateObjectMapping: 0.034521 ms MarkObjects: 0.306650 ms  DeleteObjects: 0.034832 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.819063 ms
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 3470.
+Total: 1.038443 ms (FindLiveObjects: 0.139951 ms CreateObjectMapping: 0.037320 ms MarkObjects: 0.424831 ms  DeleteObjects: 0.435405 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 81.982277 ms
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 420.
+Total: 4.192959 ms (FindLiveObjects: 0.029545 ms CreateObjectMapping: 0.038564 ms MarkObjects: 0.137774 ms  DeleteObjects: 3.986141 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at TheRakeHands.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.425764 ms
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 2.956095 ms (FindLiveObjects: 0.026746 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.134042 ms  DeleteObjects: 2.763894 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402439 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 2.135666 ms (FindLiveObjects: 0.020526 ms CreateObjectMapping: 0.030478 ms MarkObjects: 0.130310 ms  DeleteObjects: 1.954039 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.561051 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 371.
+Total: 1.772413 ms (FindLiveObjects: 0.028301 ms CreateObjectMapping: 0.035143 ms MarkObjects: 0.324377 ms  DeleteObjects: 1.383968 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.415190 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2632.
+Total: 0.511602 ms (FindLiveObjects: 0.120980 ms CreateObjectMapping: 0.041985 ms MarkObjects: 0.285501 ms  DeleteObjects: 0.062511 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.891527 ms
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 3470.
+Total: 1.110907 ms (FindLiveObjects: 0.143994 ms CreateObjectMapping: 0.036698 ms MarkObjects: 0.414257 ms  DeleteObjects: 0.515023 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 80.899986 ms
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 420.
+Total: 4.221571 ms (FindLiveObjects: 0.026124 ms CreateObjectMapping: 0.042607 ms MarkObjects: 0.162033 ms  DeleteObjects: 3.989873 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at TheRakeHands.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at WakeRake.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.612989 ms
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 5.376641 ms (FindLiveObjects: 0.026124 ms CreateObjectMapping: 0.033899 ms MarkObjects: 0.220813 ms  DeleteObjects: 5.095493 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.476147 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.242894 ms (FindLiveObjects: 0.020837 ms CreateObjectMapping: 0.031100 ms MarkObjects: 0.173229 ms  DeleteObjects: 0.017105 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 6cc -> priority: 1 
+  Thread -> id: d64 -> priority: 1 
